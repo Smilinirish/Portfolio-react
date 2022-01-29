@@ -1,0 +1,12 @@
+.slide{
+    width: 800px;
+    height: 400px;
+}
+.contact-info ul{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: var(--textbackground);
+
+
+}

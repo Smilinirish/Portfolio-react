@@ -1,6 +1,7 @@
 import project1img from "../../assets/images/date-night-in-a-box.png";
 import project2img from "../../assets/images/Screenshot.png";
-import project3img from "../../assets/images/QuestionScreen.png"
+import project3img from "../../assets/images/QuestionScreen.png";
+import project4img from "../../assets/images/HR-managment-system.png";
 import React from "react";
 const styles = {
   width: {
@@ -14,26 +15,43 @@ const styles = {
 export default function Work() {
   return (
     <div class="container d-flex align items-stretch flex-lg-wrap justify-content-center m-5 p-5">
-      {/* <div class="card img-fluid" style={styles.width}>
+      <div class="card img-fluid m-2" style={styles.width}>
         <img
           class="card-img-top"
-          src=""
+          src={project4img}
           alt="Card image"
           style={styles.width}
         />
-        <div class="card-img-overlay">
-          <h4 class="card-title lable" style={styles.background}>
+        <div class="card-body">
+          <h5 class="card-title">Hr managment system</h5>
+          <p class="card-text">
+            an interactive web page designed for internal use by corporate
+            entities. To browse the demo please use{" "}
+            <ul>
+              <li>login: toby.flenderson@dundermifflin.com</li>{" "}
+              <li>password: password12345</li>
+            </ul>
+          </p>
+          <div class="justify-content-center">
             <a
-              href="https://hrmanagement0.herokuapp.com/login"
+              href="https://hrmanagement0.herokuapp.com/"
               target="_blank"
-              rel="nonreferrer"
-            />
-            <img src={github} />
-            <img alt="Git Hub Icon Hover" className="git_link hover" src={githubHover}
-            />
-          </h4>
+              class="btn btn-primary m-1"
+              style={styles.width}
+            >
+              live page
+            </a>
+            <a
+              href="https://github.com/alifaizan786-op/HR_Management_System"
+              target="_blank"
+              class="btn btn-primary m-1"
+              style={styles.width}
+            >
+              GitHub
+            </a>
+          </div>
         </div>
-      </div> */}
+      </div>
       <div class="card img-fluid m-2" style={styles.width}>
         <img
           class="card-img-top"

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import NavTabs from './NavTabs';
-import Resume from './pages/Resume';
+import Resume from './pages/Resume/Resume';
 import About from './pages/About';
 import Work from './pages/Work';
 import Contact from './pages/Contact';

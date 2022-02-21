@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/Portfolio-react/static/css/main.1a8a0596.css",
-    "main.js": "/Portfolio-react/static/js/main.3f01390c.js",
+    "main.js": "/Portfolio-react/static/js/main.75d4855b.js",
+    "static/media/ToysPlanet.png": "/Portfolio-react/static/media/ToysPlanet.98554c595a1ec2766308.png",
     "static/media/date-night-in-a-box.png": "/Portfolio-react/static/media/date-night-in-a-box.1081620351395d4ef933.png",
     "static/media/HR-managment-system.png": "/Portfolio-react/static/media/HR-managment-system.32f2375fe5ab3a355704.png",
     "static/media/QuestionScreen.png": "/Portfolio-react/static/media/QuestionScreen.dff461036f9d33b4b94b.png",
     "static/media/Screenshot.png": "/Portfolio-react/static/media/Screenshot.d4238e954562bc3f6974.png",
     "index.html": "/Portfolio-react/index.html",
     "main.1a8a0596.css.map": "/Portfolio-react/static/css/main.1a8a0596.css.map",
-    "main.3f01390c.js.map": "/Portfolio-react/static/js/main.3f01390c.js.map"
+    "main.75d4855b.js.map": "/Portfolio-react/static/js/main.75d4855b.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8a0596.css",
-    "static/js/main.3f01390c.js"
+    "static/js/main.75d4855b.js"
   ]
 }
